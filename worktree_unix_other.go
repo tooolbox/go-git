@@ -1,4 +1,4 @@
-// +build openbsd dragonfly solaris
+// +build openbsd dragonfly solaris js wasm
 
 package git
 
